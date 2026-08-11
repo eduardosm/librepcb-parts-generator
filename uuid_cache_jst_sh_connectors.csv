@@ -27,7 +27,6 @@ dev-sh-sm6-dev,e2ceedf9-a5fb-4ccb-935e-317daacc1245
 dev-sh-sm7-dev,8309f8ed-9602-44b2-a7b1-26d4d4bede31
 dev-sh-sm8-dev,ac4568b8-7684-42ee-b36d-1200f7ce5f5f
 dev-sh-sm9-dev,767d53e8-a553-4180-bdfe-f6f7df6692ce
-footprint-sh-bm10-circlepinone,e528e8fb-9da4-4bd2-b8eb-536e64b5a8a8
 footprint-sh-bm10-footprint,cc39c7a3-5f7e-4a52-a241-93e388b8d6fa
 footprint-sh-bm10-lead0,96cf35db-5a1f-4f8a-a931-436a11028536
 footprint-sh-bm10-lead1,f60d3862-2c4d-4b5d-8e74-4a5d8c507bff
@@ -59,7 +58,6 @@ footprint-sh-bm10-supportpad0,45cd8c0a-ce17-4ee2-ab93-9f9e6ae31598
 footprint-sh-bm10-supportpad1,960996d8-5873-43c8-b30c-dbf0afdc217d
 footprint-sh-bm10-textname,452a111e-4bf9-4af3-a3b3-a8dfa575b740
 footprint-sh-bm10-textvalue,b4b886d9-3573-45c8-8ab7-7c5b5cc2a00b
-footprint-sh-bm11-circlepinone,135b4bf5-a05c-40ef-a511-11ff645a75d2
 footprint-sh-bm11-footprint,b42b856e-2680-48ed-a4f8-e0a434adb4c5
 footprint-sh-bm11-lead0,2ffe1980-e46c-48c9-a6c0-18768820dc13
 footprint-sh-bm11-lead1,064dfb86-ef58-4fff-9353-aa113cddad26
@@ -93,7 +91,6 @@ footprint-sh-bm11-supportpad0,2026c38e-3715-432c-a063-a6e6f541a7c1
 footprint-sh-bm11-supportpad1,48b39155-5348-457c-85ab-9376e553850e
 footprint-sh-bm11-textname,1a205be0-8650-4fa4-aa29-87087fc93bee
 footprint-sh-bm11-textvalue,f577ce9d-54f4-4def-8e7b-a6602acf18c4
-footprint-sh-bm12-circlepinone,dd372e7e-005b-4070-b362-da69143965db
 footprint-sh-bm12-footprint,48635b3a-860a-464b-b594-911f9b9dfe36
 footprint-sh-bm12-lead0,587f7673-2934-4eca-8f43-9a0b15c8ecf1
 footprint-sh-bm12-lead1,eb6c322b-ae34-43ca-8741-00ef4fea483e
@@ -129,7 +126,6 @@ footprint-sh-bm12-supportpad0,e398bb06-826d-4c41-a4fb-36fa2ee6ee5c
 footprint-sh-bm12-supportpad1,b6089a72-4f52-4672-8d96-cfd32f108c03
 footprint-sh-bm12-textname,1f0c43cc-6762-4ba7-b38e-dd6df56b14ea
 footprint-sh-bm12-textvalue,1752cb44-985c-457b-8f58-54b0cb893d80
-footprint-sh-bm13-circlepinone,519084bb-9c2b-4fbe-b8af-7a36add1bb83
 footprint-sh-bm13-footprint,c3f9679f-561f-42bc-9365-a194294e09fc
 footprint-sh-bm13-lead0,e3e50e07-0cd1-4fc3-a25d-b59131f60892
 footprint-sh-bm13-lead1,cda1a2ad-3dea-402d-958f-5f254d5fae8c
@@ -167,7 +163,6 @@ footprint-sh-bm13-supportpad0,4125bdfa-6277-4ad2-8c5e-85e67adbd1af
 footprint-sh-bm13-supportpad1,09ef86fe-2dd3-4032-acb8-f4a6d8ea7bab
 footprint-sh-bm13-textname,25ad6afd-5198-42a7-b428-ae1acb64167b
 footprint-sh-bm13-textvalue,9a3e6124-b1ce-431d-a2f0-18b69a1cbac4
-footprint-sh-bm14-circlepinone,ec5192b1-eb4a-4d10-9315-4f08a9bc1d5d
 footprint-sh-bm14-footprint,10353f41-8656-416d-b4fb-a8a879e55239
 footprint-sh-bm14-lead0,b0c7727e-e256-4244-9073-f0f41bbb3e3b
 footprint-sh-bm14-lead1,66b3ace1-6036-48fa-b672-93e382147eeb
@@ -207,7 +202,6 @@ footprint-sh-bm14-supportpad0,aa95344c-c426-4212-bc9a-489b22f5c563
 footprint-sh-bm14-supportpad1,c2e5d958-ffc5-4e12-88ca-95d5f9ef7411
 footprint-sh-bm14-textname,f6730ef3-2c45-46d7-9f77-30022d0674cd
 footprint-sh-bm14-textvalue,0b92075f-40ad-481c-870d-47dfcf4f9a36
-footprint-sh-bm15-circlepinone,8f655dfe-b949-4f3f-8d06-9788d625ab0c
 footprint-sh-bm15-footprint,645866f7-e497-4685-b829-8a44924463b0
 footprint-sh-bm15-lead0,304a405f-ea9c-4728-a1c6-3d8ee7b84913
 footprint-sh-bm15-lead1,b85f7174-8bbb-4342-b416-2487f9e53215
@@ -249,7 +243,6 @@ footprint-sh-bm15-supportpad0,7dea7c63-6ddd-4ff8-9b0d-f6bc4a8a210d
 footprint-sh-bm15-supportpad1,fec4b92c-4f7b-4020-b576-c0737f176f32
 footprint-sh-bm15-textname,38546bdf-ee7a-459d-a268-deee27da777d
 footprint-sh-bm15-textvalue,5d4b793d-ad25-41a5-b02e-87595985abee
-footprint-sh-bm2-circlepinone,b2d1b8c0-a6ea-46a4-be14-9c46a7e7cd01
 footprint-sh-bm2-footprint,13375f46-296b-4a0a-8706-0c6d58c2cf9a
 footprint-sh-bm2-lead0,985e0718-6e97-416b-ab5e-f24566a71caa
 footprint-sh-bm2-lead1,d6a9f67a-33ef-4958-a1f5-c8a1bc9dd889
@@ -265,7 +258,6 @@ footprint-sh-bm2-supportpad0,540fafab-3886-489f-856c-0dad379035e8
 footprint-sh-bm2-supportpad1,f71ce501-2d61-42a4-9e44-228a5a69323d
 footprint-sh-bm2-textname,3c2108fd-4b50-431b-9ab1-397fae99dd63
 footprint-sh-bm2-textvalue,514c813d-b398-4695-9bcd-4f99373ae361
-footprint-sh-bm3-circlepinone,26d0d687-ad5f-4986-a0b4-68c323dfe7bc
 footprint-sh-bm3-footprint,4509d942-ed84-4fd3-9be2-272d33ec5a4e
 footprint-sh-bm3-lead0,13d9b37d-c4b7-475e-901f-c3ebbde857f1
 footprint-sh-bm3-lead1,361b1ccc-a975-4cea-ab9f-374849ef6492
@@ -283,7 +275,6 @@ footprint-sh-bm3-supportpad0,3994063a-b76e-4663-89dc-ae404a426f4a
 footprint-sh-bm3-supportpad1,72040636-28c2-4993-8457-e8db9812afb9
 footprint-sh-bm3-textname,b5672b36-1a33-44ea-b768-b4bbcb677ea6
 footprint-sh-bm3-textvalue,897737d0-e520-4e4c-b865-e2b250c565f1
-footprint-sh-bm4-circlepinone,ec2e4543-4f97-45b7-8164-235928142c23
 footprint-sh-bm4-footprint,7303b65e-25a1-412b-b275-72529ad99c76
 footprint-sh-bm4-lead0,ce97a364-cf55-42cd-b8db-433de35965e6
 footprint-sh-bm4-lead1,b81dfece-4656-4dc5-be13-db2a1cb8101e
@@ -303,7 +294,6 @@ footprint-sh-bm4-supportpad0,27d6bca4-dffc-4c4a-96e6-6ff41c4b2706
 footprint-sh-bm4-supportpad1,f6f56a85-7e64-49c7-9ea0-6ea07a0340ee
 footprint-sh-bm4-textname,e201503a-171d-461c-9933-c994d1bfe384
 footprint-sh-bm4-textvalue,84418d46-3f86-4e5b-814b-77ce769b1e08
-footprint-sh-bm5-circlepinone,c2723bc0-b3dc-4b2a-b3ee-6b36e037444a
 footprint-sh-bm5-footprint,9b2f6a32-43e4-4e27-b077-3493cc5ab12e
 footprint-sh-bm5-lead0,d62fbc22-ea0e-4fef-ab7a-2c7f7d9719ee
 footprint-sh-bm5-lead1,a7f8ad2f-3b06-4ee0-abec-84ea3cbb7e88
@@ -325,7 +315,6 @@ footprint-sh-bm5-supportpad0,1d62299d-d0d6-41b3-9c5e-4b460b48ee3e
 footprint-sh-bm5-supportpad1,0191e214-c69c-4314-83df-c09c28bb3a68
 footprint-sh-bm5-textname,b94bd813-608a-4cc4-8bdd-bb8c1393ce32
 footprint-sh-bm5-textvalue,2f62682d-3ecc-4d80-8ddc-4d57a736cde0
-footprint-sh-bm6-circlepinone,d9794c79-a67b-4a65-82e8-612190c1ff80
 footprint-sh-bm6-footprint,f8d44d30-f37c-4efc-a80b-de6a88dc62a2
 footprint-sh-bm6-lead0,ea812f97-b25b-47ac-9742-ded50766b58d
 footprint-sh-bm6-lead1,e9cd2875-c0fc-472c-a6e6-1eb912e62a14
@@ -349,7 +338,6 @@ footprint-sh-bm6-supportpad0,df466871-2ff3-45ac-b2b2-a8aff6672d93
 footprint-sh-bm6-supportpad1,ab5c3758-3ccd-4dbe-9256-cbfbb2df71e2
 footprint-sh-bm6-textname,d53c4e5c-3e15-47e8-ad8e-9803b69ac9c7
 footprint-sh-bm6-textvalue,cd2986e4-b1fb-4193-b376-cd1d3f7438c3
-footprint-sh-bm7-circlepinone,501d5514-46db-46f3-b88b-19bb4247f3ef
 footprint-sh-bm7-footprint,2eb0a486-9c10-4038-8aeb-c4ab53f718cd
 footprint-sh-bm7-lead0,80edc47a-2133-428b-addd-fa51ebe5d0aa
 footprint-sh-bm7-lead1,e87a0c44-adc9-4ad3-a375-1f114e3e194e
@@ -375,7 +363,6 @@ footprint-sh-bm7-supportpad0,057a87ba-576b-459a-99e0-8e52a4d1ab1a
 footprint-sh-bm7-supportpad1,4c47e9ca-1fd7-436e-9511-c06514da2896
 footprint-sh-bm7-textname,1e3767bd-925d-4e8e-85ce-bd5a65ea854c
 footprint-sh-bm7-textvalue,eaf5430d-14a5-42f8-bf3b-939aeba17bbc
-footprint-sh-bm8-circlepinone,23ce342c-8e79-46c6-bd43-e72fac5fa9ee
 footprint-sh-bm8-footprint,d7af5d88-d68f-47e7-acc2-7abe74c097b8
 footprint-sh-bm8-lead0,d8994aa6-fef7-44d0-8d13-ec0edba58855
 footprint-sh-bm8-lead1,9e9690f3-8916-4de2-91dd-042e7028934c
@@ -403,7 +390,6 @@ footprint-sh-bm8-supportpad0,266604a3-b1fd-455b-a2ea-79dcf54e177b
 footprint-sh-bm8-supportpad1,680defd1-87b1-4e6c-9a01-02861662a324
 footprint-sh-bm8-textname,c3a586e9-5b41-49d4-8c18-f2b8664e0621
 footprint-sh-bm8-textvalue,9c753d95-e3e5-422f-9f90-f27a246e9641
-footprint-sh-bm9-circlepinone,a675cc44-f06e-43cb-b33c-c9bc5efbaa53
 footprint-sh-bm9-footprint,08b63715-3b74-405e-988f-3cc1da5a87ca
 footprint-sh-bm9-lead0,007b5973-10e5-40e8-98d8-01b7aa772d44
 footprint-sh-bm9-lead1,b4cefb5c-60e0-479d-9631-f5443674480f
@@ -433,7 +419,6 @@ footprint-sh-bm9-supportpad0,ca4f6905-fe25-4eba-8bea-e48bc701bb7d
 footprint-sh-bm9-supportpad1,7313f0f7-839b-48cf-bd0b-3a7adf7b7722
 footprint-sh-bm9-textname,a7c5725d-fad5-4f76-bfa0-09308fa2d9b1
 footprint-sh-bm9-textvalue,cf215a84-1e9b-4f83-a4c4-0377a5054537
-footprint-sh-sm10-circlepinone,a258074e-476a-4bea-baa2-0132596cc794
 footprint-sh-sm10-footprint,0bd7a495-c387-4fbf-b8ff-e07cad6a55af
 footprint-sh-sm10-lead0,415b5598-9c20-43b6-8fba-6c93f086a865
 footprint-sh-sm10-lead1,648365cf-87a8-4323-a8a8-4c99a2e548ec
@@ -465,7 +450,6 @@ footprint-sh-sm10-supportpad0,39b5aa2d-0036-4961-a270-f3b9d7f46074
 footprint-sh-sm10-supportpad1,4f43673b-fe5d-4e81-bbd8-e538c1c5ef92
 footprint-sh-sm10-textname,db29b65f-617a-4536-ba41-7e86f6a45952
 footprint-sh-sm10-textvalue,8b281353-4cdf-4204-b5b5-d47bb49d1105
-footprint-sh-sm11-circlepinone,6effdabd-ec5f-4da4-b7cd-798fef9ac833
 footprint-sh-sm11-footprint,0968803c-98f4-43c0-97a8-e172821d8435
 footprint-sh-sm11-lead0,43589df6-4324-4049-a9bb-0ace86e51513
 footprint-sh-sm11-lead1,ba8ec3d1-f3ca-4ee3-b6f5-d87cd14b3c85
@@ -499,7 +483,6 @@ footprint-sh-sm11-supportpad0,bd0d68f2-a207-4c26-be46-29115637f854
 footprint-sh-sm11-supportpad1,3972dd1f-b2a9-4e63-bb43-aea48b9cbc87
 footprint-sh-sm11-textname,aaf87dd5-ac79-42fc-9b9c-4df25c30498f
 footprint-sh-sm11-textvalue,8beff20d-43e9-4bfc-818c-61b7d68b1bc5
-footprint-sh-sm12-circlepinone,c15718cd-6677-4e9b-9122-efbdc85abe76
 footprint-sh-sm12-footprint,4517352c-6b30-4d84-b298-d01b118ff9cd
 footprint-sh-sm12-lead0,a63d9f76-36bb-4c1c-8c87-c3bbe8eae475
 footprint-sh-sm12-lead1,e75bab8d-3ca4-44a4-94f1-e568204a9213
@@ -535,7 +518,6 @@ footprint-sh-sm12-supportpad0,35241ff5-7f6b-4a5d-a878-a1b03f4bd0f7
 footprint-sh-sm12-supportpad1,f42bce24-bef0-4a94-828d-715aac959f9e
 footprint-sh-sm12-textname,d0dee8bd-c5df-461a-bbea-8ebec36a2abd
 footprint-sh-sm12-textvalue,f20d4511-7a89-4e62-bfef-d9820283bc26
-footprint-sh-sm13-circlepinone,1e59fdfe-158e-404a-a463-d8b35ab91ce1
 footprint-sh-sm13-footprint,ad709891-a4d0-45be-ab22-4ceb1b06fefd
 footprint-sh-sm13-lead0,46c65110-bf66-48c2-ba76-e0553d27bb16
 footprint-sh-sm13-lead1,3c326745-af67-463b-9d3f-8be601dd3bba
@@ -573,7 +555,6 @@ footprint-sh-sm13-supportpad0,b411e689-ae9e-41a2-9375-a6152d70f983
 footprint-sh-sm13-supportpad1,352b02da-5e20-402a-9ab9-0434b22ee5ef
 footprint-sh-sm13-textname,f236851a-e4d0-48c1-8369-b7875ac1b45c
 footprint-sh-sm13-textvalue,e0d147fc-a133-4b43-bf2d-2d38b60f79a9
-footprint-sh-sm14-circlepinone,2c2d2b3f-9abe-40fe-a795-c30df2dd4b4f
 footprint-sh-sm14-footprint,891f91e0-1ce4-4f3a-9838-8f8f5edf2b2f
 footprint-sh-sm14-lead0,7281f8a2-674b-4baf-9fa2-804ec2bc9c5a
 footprint-sh-sm14-lead1,2c5f5a12-2bfe-4c51-9aa2-c73a001693a3
@@ -613,7 +594,6 @@ footprint-sh-sm14-supportpad0,82a6df36-4f3d-4f8d-8e36-f25e3d030a6a
 footprint-sh-sm14-supportpad1,be104116-aa59-4801-b4f4-994f3a20ec48
 footprint-sh-sm14-textname,f1059e7b-4b7b-4d23-8a39-a37a04b72116
 footprint-sh-sm14-textvalue,50f7c55c-e6d9-4db9-96ab-7e6fd95b79f5
-footprint-sh-sm15-circlepinone,78688313-56b1-406e-b137-6a662d8c3e53
 footprint-sh-sm15-footprint,2661e079-4b47-47a6-b882-aca9c2030f50
 footprint-sh-sm15-lead0,867c27be-9446-4ea6-ad2b-9ce798cec24a
 footprint-sh-sm15-lead1,ce153d1a-5fc1-479e-a3dd-526b9123b633
@@ -655,7 +635,6 @@ footprint-sh-sm15-supportpad0,921a4bed-1a91-4d6b-9bf9-26205e462e6f
 footprint-sh-sm15-supportpad1,2e82b7a0-9f87-4da7-88c2-a7bfd99dafa9
 footprint-sh-sm15-textname,e50229cc-9981-4316-a82c-3b5ac34e9f76
 footprint-sh-sm15-textvalue,422583c6-6591-4008-a494-e4be694922df
-footprint-sh-sm2-circlepinone,f8a93d87-c094-4746-9885-0a58ac05d30c
 footprint-sh-sm2-footprint,bec52d6f-bb54-4587-b2b7-b5b8ec454018
 footprint-sh-sm2-lead0,a3ffe729-156d-4da7-b46d-4d8eabff5ed5
 footprint-sh-sm2-lead1,fd7f9d31-a100-4d2a-98e5-b5cf2065dacf
@@ -671,7 +650,6 @@ footprint-sh-sm2-supportpad0,a06ca5a9-1795-466d-a582-cefe79d0d70c
 footprint-sh-sm2-supportpad1,d1938c2f-32ea-4e50-a6f4-44663827e4df
 footprint-sh-sm2-textname,714fc001-27b0-4764-b794-f20fa23c0c9c
 footprint-sh-sm2-textvalue,6d5c1159-c8dd-4428-b4d3-555df7ed12b0
-footprint-sh-sm20-circlepinone,2725388c-09a3-4fd7-93c1-c34c82596172
 footprint-sh-sm20-footprint,4a1f18b0-a16a-4e7b-baac-7af7d432638c
 footprint-sh-sm20-lead0,fd4f4c6d-9c94-416c-9f8d-713f64183af8
 footprint-sh-sm20-lead1,f3831142-51e7-42ce-8b08-dc7a7aff6da3
@@ -723,7 +701,6 @@ footprint-sh-sm20-supportpad0,33c05597-97b2-4c26-8014-441068828112
 footprint-sh-sm20-supportpad1,8adda4f3-f1cb-4c05-b572-a6f1c61d21ef
 footprint-sh-sm20-textname,5201e876-9df1-479b-b720-5c63a5afe9df
 footprint-sh-sm20-textvalue,245e6f3c-2b54-45cc-8ce1-71623d4df358
-footprint-sh-sm3-circlepinone,09da46b9-d883-4a19-9b1f-6211c0393102
 footprint-sh-sm3-footprint,577962d5-e4ed-46eb-a74a-acac8644e913
 footprint-sh-sm3-lead0,e3000567-7d76-412b-b097-21acc21b071a
 footprint-sh-sm3-lead1,9dcfaa69-26ac-4480-a4dc-6eae56fc3a90
@@ -741,7 +718,6 @@ footprint-sh-sm3-supportpad0,a9dfaaa9-81d4-4791-9386-09e6ca535d06
 footprint-sh-sm3-supportpad1,4cf86d26-9820-4096-a4a9-c1a242c5654c
 footprint-sh-sm3-textname,0fce4907-747f-41c0-88b0-11d7e908a287
 footprint-sh-sm3-textvalue,78c7d7b2-bba2-4401-8fb2-df2350cd6836
-footprint-sh-sm4-circlepinone,e08f33a9-7ade-47fb-a2a5-5b11af324ba7
 footprint-sh-sm4-footprint,7ce1d0f4-3be0-44b4-ae31-b191211ca876
 footprint-sh-sm4-lead0,19c47a08-b704-42a6-b43e-d303c493f1e1
 footprint-sh-sm4-lead1,11da48b8-bb71-4d54-b986-60f1ce2db065
@@ -761,7 +737,6 @@ footprint-sh-sm4-supportpad0,a64e1b74-a9c5-4dec-8402-1e334cb398e3
 footprint-sh-sm4-supportpad1,4803c8af-036b-406e-9133-1311dc9943a4
 footprint-sh-sm4-textname,a84f21ba-3066-4ed1-83f8-9cc7d9df905c
 footprint-sh-sm4-textvalue,d9507d71-4e49-42f6-a121-51f179e3a3f5
-footprint-sh-sm5-circlepinone,aa37b64b-3f97-42e2-a8da-d93b723f129d
 footprint-sh-sm5-footprint,3f8d0055-2abf-4073-a22e-2d0b820a75a3
 footprint-sh-sm5-lead0,0f6dbb5a-be67-4954-b7fd-94d39305c9c2
 footprint-sh-sm5-lead1,b8294aae-b7c7-4317-8bc7-1c2a648d9c3f
@@ -783,7 +758,6 @@ footprint-sh-sm5-supportpad0,134260ee-ee5e-46b0-a0cd-aedea43154e2
 footprint-sh-sm5-supportpad1,3c3e946d-bcec-4921-8ea3-ff44d14de06c
 footprint-sh-sm5-textname,49e4f279-48d1-4253-8b61-e1e9d0395675
 footprint-sh-sm5-textvalue,15e0f896-3ac8-43bd-9a85-e7a518ea9f87
-footprint-sh-sm6-circlepinone,27727154-de75-446a-9a9b-05953e03f92d
 footprint-sh-sm6-footprint,2fb95d98-2b89-4817-a436-99cd69e36692
 footprint-sh-sm6-lead0,99049188-90a2-469b-ae25-ad2b696463ce
 footprint-sh-sm6-lead1,f56a3ec0-6b59-4d26-9866-f3511dca188a
@@ -807,7 +781,6 @@ footprint-sh-sm6-supportpad0,0344e0fb-5040-457a-bd74-f8d2e9bd2d16
 footprint-sh-sm6-supportpad1,4c5da949-8d20-491e-89f0-129c5c72a0f4
 footprint-sh-sm6-textname,863016ea-8a4e-4134-b5d9-4707577e120a
 footprint-sh-sm6-textvalue,e8971c25-5b85-4301-8288-927e6c31c854
-footprint-sh-sm7-circlepinone,e2fd0e57-e41d-420d-a339-dc19e157298c
 footprint-sh-sm7-footprint,ed1b31d3-f18f-4348-8fee-5119b4b144b2
 footprint-sh-sm7-lead0,51daf6b3-721f-4703-8287-b76445e1cf80
 footprint-sh-sm7-lead1,7ea8239e-17d6-4a0d-99f2-14f384d078f7
@@ -833,7 +806,6 @@ footprint-sh-sm7-supportpad0,e9f1ad7c-f9a7-46c1-a6a8-c73a0cf4b89c
 footprint-sh-sm7-supportpad1,f2114d50-6c78-44a1-9179-180c08c5c342
 footprint-sh-sm7-textname,b473d842-85fe-4c78-9c6f-b3df71ebcf5c
 footprint-sh-sm7-textvalue,3ca347c0-13fc-488f-b7e8-46706c1657e4
-footprint-sh-sm8-circlepinone,ecb60da6-7bf6-4888-b6d2-c327f23f915f
 footprint-sh-sm8-footprint,a68b5ee7-c793-4f76-bcac-55b95b4b6eff
 footprint-sh-sm8-lead0,13b6e655-7e79-4970-97fb-9abca8fff36d
 footprint-sh-sm8-lead1,a24e00df-67e3-4323-82a6-f07663c34518
@@ -861,7 +833,6 @@ footprint-sh-sm8-supportpad0,d0b1414e-aa58-47a6-90b1-acf44409fc5d
 footprint-sh-sm8-supportpad1,62ea2bf4-f66d-46ce-a357-43fef7611624
 footprint-sh-sm8-textname,288bf40b-6111-4409-9088-0ea0f8d8bf9c
 footprint-sh-sm8-textvalue,81ee9ccc-5ab7-4d36-904a-c175b32b44e2
-footprint-sh-sm9-circlepinone,c5f21e94-94a8-4929-8f00-26660d1a93ae
 footprint-sh-sm9-footprint,983e4175-3022-417c-882d-46fffad5518d
 footprint-sh-sm9-lead0,c2b0b256-e22f-41a3-90eb-744d8a607302
 footprint-sh-sm9-lead1,e594c006-7825-4308-a26a-31d5c095689b

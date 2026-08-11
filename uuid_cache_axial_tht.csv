@@ -701,12 +701,10 @@ pkg-r0204-h5.08-3d,66e58ea8-0bac-459a-91ba-0c74ef8d98ef
 pkg-r0204-h5.08-compact-footprint,f7c9f0a9-4d39-4280-8edc-aba4e29347e5
 pkg-r0204-h5.08-compact-pad-1,a1aa10e6-f0c8-4797-a8ea-22e6d0f5ea0d
 pkg-r0204-h5.08-compact-pad-2,82f1cf8f-51e0-4b90-9f3f-d13a556ae73f
-pkg-r0204-h5.08-compact-polygon-bar,45c53377-0321-40ca-a641-d2e264326fa7
 pkg-r0204-h5.08-compact-polygon-body,3b9590f7-e223-43ac-8ea9-4b261b27df66
 pkg-r0204-h5.08-compact-polygon-courtyard,44274f95-e5d2-4708-9b79-8237fbb2f021
 pkg-r0204-h5.08-compact-polygon-leg1,c721021d-b56c-4a30-80a2-a89ecf74a279
 pkg-r0204-h5.08-compact-polygon-leg2,bbb6c221-c941-4e90-8528-184011c57beb
-pkg-r0204-h5.08-compact-polygon-legend-bar,5dce0e84-69fe-42d4-aa89-6e8fb9ffea48
 pkg-r0204-h5.08-compact-polygon-legend-bottom,2871a4fe-d58d-41fd-83d2-1136942776a3
 pkg-r0204-h5.08-compact-polygon-legend-top,eb4b2bb8-9b6b-4d86-b4f4-1c66f8e7216b
 pkg-r0204-h5.08-compact-polygon-outline,0f06e7d6-0051-443a-be78-a3c7112179fa
@@ -716,12 +714,10 @@ pkg-r0204-h7.62-3d,e8b9150e-16a5-4445-8779-e309949ab71b
 pkg-r0204-h7.62-compact-footprint,02b104a3-6b7e-4973-9656-4bd8f1a24cb9
 pkg-r0204-h7.62-compact-pad-1,a1aa10e6-f0c8-4797-a8ea-22e6d0f5ea0d
 pkg-r0204-h7.62-compact-pad-2,82f1cf8f-51e0-4b90-9f3f-d13a556ae73f
-pkg-r0204-h7.62-compact-polygon-bar,e30eb30c-240e-49a2-a443-83f7adf365ac
 pkg-r0204-h7.62-compact-polygon-body,dbafebf7-29fd-478a-aa67-1845274c9f90
 pkg-r0204-h7.62-compact-polygon-courtyard,f30bde7c-e6bc-4a64-8ed2-10e2435a06dc
 pkg-r0204-h7.62-compact-polygon-leg1,02d7847e-85e3-431e-b48a-12b956b145f6
 pkg-r0204-h7.62-compact-polygon-leg2,7f0d67ba-cb6f-4b91-a1e9-456ee93927a3
-pkg-r0204-h7.62-compact-polygon-legend-bar,7c3af37d-3560-44bf-a81d-9ca35faa8265
 pkg-r0204-h7.62-compact-polygon-legend-body,be5b9330-92b1-4748-b6b1-aa03c05e08f3
 pkg-r0204-h7.62-compact-polygon-legend-leg1,6a9b6c0e-2b7e-442f-8dcc-9b3000c359fd
 pkg-r0204-h7.62-compact-polygon-legend-leg2,a83776d2-eba7-4a2f-8d23-7df99bd1980f
@@ -739,7 +735,6 @@ pkg-r0204-v2.54-compact-pad-1,a1aa10e6-f0c8-4797-a8ea-22e6d0f5ea0d
 pkg-r0204-v2.54-compact-pad-2,82f1cf8f-51e0-4b90-9f3f-d13a556ae73f
 pkg-r0204-v2.54-compact-polygon-courtyard,14fab211-8b9a-43fa-82dd-dcec17115e8b
 pkg-r0204-v2.54-compact-polygon-leg,8280d746-a0bd-409f-b04b-4a00cb867c9a
-pkg-r0204-v2.54-compact-polygon-legend-bar,5ac63e07-311d-47fb-b661-7f6cb1781b34
 pkg-r0204-v2.54-compact-polygon-legend-leg,e81bce5b-f385-46fb-8f24-d64a20998dbe
 pkg-r0204-v2.54-compact-polygon-outline,9d3fdedf-a902-451b-8050-479bee3a6c85
 pkg-r0204-v2.54-compact-text-name,9243a1b1-9413-4d29-a201-310ef4862eeb
